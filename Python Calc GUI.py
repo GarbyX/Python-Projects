@@ -1,7 +1,7 @@
 from tkinter import*
 
 root = Tk()
-root.title("Ruth's Calculator")
+root.title("Garby's Calculator")
 # root.geometry('500x600')
 
 e = Entry(root, width=40, borderwidth=5)
